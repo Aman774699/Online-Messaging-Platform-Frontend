@@ -1,8 +1,8 @@
 {
-  "homepage": "https://Aman774699.github.io/Online-Messaging-Platform-Frontend",
   "name": "messaging-platform-frontend",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Aman774699.github.io/Online-Messaging-Platform-Frontend",
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.11.3",
