@@ -1,7 +1,7 @@
 import axios from 'axios';
-
+// https://messaging-platform-backend-1.onrender.com
 const api = axios.create({
-  baseURL: process.env.REACT_APP_API_URL || 'http://localhost:8080',
+  baseURL: process.env.REACT_APP_API_URL || 'https://messaging-platform-backend-1.onrender.com',
   headers: {
     'Accept': 'application/json',
   },
