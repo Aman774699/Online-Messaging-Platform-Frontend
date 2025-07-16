@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Online-Messaging-Platform-Frontend/static/css/main.cef41918.css",
+    "main.js": "/Online-Messaging-Platform-Frontend/static/js/main.0543589b.js",
+    "static/js/453.96548eee.chunk.js": "/Online-Messaging-Platform-Frontend/static/js/453.96548eee.chunk.js",
+    "index.html": "/Online-Messaging-Platform-Frontend/index.html",
+    "main.cef41918.css.map": "/Online-Messaging-Platform-Frontend/static/css/main.cef41918.css.map",
+    "main.0543589b.js.map": "/Online-Messaging-Platform-Frontend/static/js/main.0543589b.js.map",
+    "453.96548eee.chunk.js.map": "/Online-Messaging-Platform-Frontend/static/js/453.96548eee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cef41918.css",
+    "static/js/main.0543589b.js"
+  ]
+}
